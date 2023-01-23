@@ -30,7 +30,7 @@ notebook folder.
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Customer-Market-Basket-on-E-Commerce.git
+https://github.com/Amit-2022/Customer-Market-Basket-on-E-Commerce.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
